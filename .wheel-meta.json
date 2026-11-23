@@ -1,0 +1,22 @@
+{
+  "wheel_id": 944,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-160",
+  "project": "retaining-wall-repairs-toowoomba-local-options-compared-12790e5",
+  "parent_t1_ref": "toowoombaretainingwalls-008",
+  "node_role": "buffer",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba local options compared",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-repairs-toowoomba-local-options-compared-12790e5/",
+  "tier": "T2",
+  "writeback_nonce": "af004d85ab6fd513",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-repairs-toowoomba-toowoombaretainingwalls-008/",
+      "anchor": "more on retaining wall repairs toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
